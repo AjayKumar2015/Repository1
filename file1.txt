@@ -14,17 +14,13 @@ lines678
 ******************Line After performing Merge.******************
 ******************Line After performing Merge.******************
 
-There are some conflicting line..
-There are some conflicting line..
-There are some conflicting line..
-There are some conflicting line..
-There are some conflicting line..
-There are some conflicting line..
-There are some conflicting line..
-There are some conflicting line..
-There are some conflicting line..
-There are some conflicting line..
-There are some conflicting line..
+....................Changes made from cloned repository....................
+....................Changes made from cloned repository....................
+....................Changes made from cloned repository....................
+....................Changes made from cloned repository....................
+....................Changes made from cloned repository....................
+....................Changes made from cloned repository....................
+....................Changes made from cloned repository....................
 There are some conflicting line..
 There are some conflicting line..
 There are some conflicting line..
