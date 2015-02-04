@@ -9,10 +9,10 @@ Changed Lines
 lines 345
 lines678
 
-Changed Lines
-Changed Lines
-Changed Lines
-Changed Lines
+******************Line After performing Merge.******************
+******************Line After performing Merge.******************
+******************Line After performing Merge.******************
+******************Line After performing Merge.******************
 
 There are some conflicting line..
 There are some conflicting line..
